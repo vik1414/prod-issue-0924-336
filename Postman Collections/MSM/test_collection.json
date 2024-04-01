@@ -33,7 +33,7 @@
 						"variables": "{\r\n    \"statusLift1\": \"HOLD\",\r\n    \"statusLift2\": \"OPEN\",\r\n    \"statusLift3\": \"CLOSED\"\r\n}"
 					}
 				},
-				"url": "https://snowtooth.moonhighway.com/"
+				"url": "https://snowtooth.moonhighway.com/New Test1"
 			},
 			"response": []
 		}
