@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "https://snowtooth.moonhighway.com/",
+			"name": "One",
 			"event": [
 				{
 					"listen": "test",
@@ -33,7 +33,7 @@
 						"variables": "{\r\n    \"statusLift1\": \"HOLD\",\r\n    \"statusLift2\": \"OPEN\",\r\n    \"statusLift3\": \"CLOSED\"\r\n}"
 					}
 				},
-				"url": "https://snowtooth.moonhighway.com/New Test3"
+				"url": "https://snowtooth.moonhighway.com/New Test5"
 			},
 			"response": []
 		}
