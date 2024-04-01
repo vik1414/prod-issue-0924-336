@@ -16,9 +16,9 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "Test1",
+					"raw": "Test2",
 					"host": [
-						"Test1"
+						"Test2"
 					]
 				}
 			},
